@@ -8,3 +8,4 @@
 - [เนปปุ~](https://github.com/tinarskii/soundnep)
 - [เทมเพลต Awesome Quotes](https://github.com/tinarskii/Awesome-Quotes)
 - [บอตดิสคอร์ดโมโนลิโพ](https://github.com/mulforma/Zelar)
+- [สป๊ากกก](https://github.com/wrong-lang/spark)
